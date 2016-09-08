@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_67"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_AOP"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_WEB"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/aop.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/core.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/ibatis.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/j2ee.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/javaconfig.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/persistCore.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/persistJdbc.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/persistJDO.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/remoting.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/test.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/web.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/misc.zip"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
